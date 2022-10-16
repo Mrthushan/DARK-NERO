@@ -6,7 +6,7 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
    "env": {
   
- "OWNER_NAME" :{
+ "OWNER_NAME" :{QUEEN LISA
     "description" : "enter you name",
     "required" : true,
   "value" : "KAVEESHA "
@@ -17,7 +17,7 @@
 "ALIVE_MSG" :{
     "description" : "enter you msg",
     "required" : true,
-  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+  "value" : "HI I'M  ⚜️QUEEN LISA"
     },
      
      "ALIVE_LOGO" :{
